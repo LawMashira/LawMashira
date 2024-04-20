@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [Student Online Admission System (Backend)](Student Online Admission System (Backend)
 
-- 👨‍💻 All of my projects are available at [https://symphonious-axolotl-8f4bde.netlify.app/](https://symphonious-axolotl-8f4bde.netlify.app/)
-
 - 💬 Ask me about **React, Spring Boot**
 
 - 📫 How to reach me **lawsonmatutu@gmail.com**
