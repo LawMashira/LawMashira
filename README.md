@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lawsonmatutu@gmail.com**
 
-- 📄 Know about my experiences [https://symphonious-axolotl-8f4bde.netlify.app/](https://symphonious-axolotl-8f4bde.netlify.app/)
+- 📄 Know about my experiences [https://lawson-matutu.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
